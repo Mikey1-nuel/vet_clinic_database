@@ -10,3 +10,5 @@ neutered bool not null,
 weight_kg decimal not null,
 PRIMARY KEY (id)
 );
+
+ALTER TABLE animals ADD species varchar(100);
