@@ -9,7 +9,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -31,20 +30,6 @@
 - SQL
 
 > SQL stands for Structured Query Language which is used to access and manipulates databases.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">N/A</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">N/A</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -93,12 +78,6 @@ To run the project, execute the following command:
 ```
 
 > Enter your password and continue with sql commands.
-
-### Run tests
-
-To run tests, run the following command: N/A
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 👥 Author <a name="authors"></a>
