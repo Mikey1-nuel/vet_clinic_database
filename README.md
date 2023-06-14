@@ -98,15 +98,6 @@ To run the project, execute the following command:
 
 To run tests, run the following command: N/A
 
-### Deployment
-
-You can deploy this project using:
-
-```sh
-render.com
-
-```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
