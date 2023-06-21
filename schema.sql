@@ -26,7 +26,7 @@ full_name varchar(100) not null,
 age INT not null,
 PRIMARY KEY (id),
    CONSTRAINT fk_owners
-      FOREIGN KEY(owner_id) 
+      FOREIGN KEY(owner_id)
 	  REFERENCES animals(id)
       ON DELETE SET NULL
 );

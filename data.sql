@@ -200,5 +200,4 @@ VALUES
     (SELECT id FROM animals WHERE name = 'Blossom'),
     (SELECT id FROM vets WHERE name = 'William Tatcher'),
     '2021-01-11'
-  )
-;
+  );
